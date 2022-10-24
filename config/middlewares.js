@@ -23,3 +23,6 @@ module.exports = [
   "strapi::favicon",
   "strapi::public",
 ];
+
+// to view api-points with images:
+// http://localhost:1337/api/events?[populate]=*
